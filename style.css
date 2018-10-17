@@ -1,0 +1,36 @@
+
+body {
+    background-color: #283593;
+}
+
+.totalSite {
+    padding: 0px;
+}
+.navColumn {
+    background-color: #283593;
+    height: 100%;
+}
+
+.contentColumn {
+    background-color: #424242;
+    height: 100%;
+}
+
+.card {
+    margin: 20px;
+    min-height: 250px;
+    
+}
+
+.nav-link {
+    color: #fff;
+}
+
+.nav-link:hover {
+    color:#fff;
+    background-color: #424242;
+}
+
+.contentColumn .row {
+    margin: 0px;
+}
